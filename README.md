@@ -95,7 +95,7 @@ For `FundMe.sol`, use **Sepolia testnet** and grab ETH from:
 
 - [Chainlink Faucet](https://faucets.chain.link/sepolia)
 - [Alchemy Sepolia Faucet](https://sepoliafaucet.com)
-- https://cloud.google.com/application/web3/faucet/ethereum/sepolia(this is the best source I used)
+- https://cloud.google.com/application/web3/faucet/ethereum/sepolia   (this is the best source I used)
 
 ---
 
